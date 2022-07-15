@@ -1,0 +1,73 @@
+.fullarea{
+    border: 1px solid #DDDDDD;
+}
+.myname{
+    color:#2E8BC0;
+    font-size: 4rem;
+    font-weight: 500;
+}
+.name{
+    color:#2E8BC0;
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 1.3rem;
+}
+p,li{
+    font-size: 1.1rem;
+}
+
+.fsd{
+    color:#C46200;
+    font-weight: bold;
+    display: block;
+}
+.bold{
+    font-weight: bold;
+}
+.cont{
+    text-indent: 60px;
+}
+.line1{
+    box-shadow: 3px 3px 3px rgba(0, 0,0,0.15);
+    margin-bottom: 10px;
+} 
+.line2{
+    box-shadow: 3px 3px 3px rgba(0, 0,0,0.15);
+    margin-bottom: 10px;
+}
+
+.Full{
+    display: flex;
+    width: 200px;
+    height: 5px;
+    box-shadow: 3px 3px 3px 0px rgba(0, 0,0,0.15);
+    border-radius: 5px;
+}
+.html1{
+    width: 170px;
+    height: 5px;
+    background-color:#2E8BC0;
+}
+.css1{
+    width: 160px;
+    height: 5px;
+    background-color:#2E8BC0;
+}
+.js1{
+    width: 150px;
+    height: 5px;
+    background-color:#2E8BC0;
+}
+.ms1{
+    width: 180px;
+    height: 5px;
+    background-color:#2E8BC0;
+}
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 1,
+  'wght' 900,
+  'GRAD' 0,
+  'opsz' 100
+}
